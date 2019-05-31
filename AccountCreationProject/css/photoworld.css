@@ -1,0 +1,21 @@
+/*--------------------------------------------------
+	CSS; PHOTOWORLD
+---------------------------------------------------------*/	
+div.form {
+	width: 300px;
+	text-align: center;
+	margin: 10px 1em;
+	border: 3px solid #090B0D;
+	border-radius: 20px;
+}	
+	
+p {
+	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+}	
+	
+h2 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 24px;
+}
+	
