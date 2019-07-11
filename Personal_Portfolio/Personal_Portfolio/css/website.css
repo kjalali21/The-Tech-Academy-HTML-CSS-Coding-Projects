@@ -1,5 +1,10 @@
 div.icon-box {
+	text-align: center;
     border: 2px solid;
     border-radius: 2px;
 }
 
+section.skills {
+	padding: 70px 0;
+	text-align: center;
+}	
